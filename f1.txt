@@ -1,1 +1,2 @@
-hi im shristy
+hi im shristy<f2.txt
+f2.txt
